@@ -34,7 +34,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 The project uses the [MovieLens dataset](https://grouplens.org/datasets/movielens/) for movie ratings:
 
-- **Path**: Place the dataset in the `data/` directory as `ml-latest-small/ratings.csv`.
+- **Path**: Place the dataset in the `data/ratings.csv`.
 - **Structure**: The dataset should include `userId`, `movieId`, and `rating` columns.
 
 ---
