@@ -229,14 +229,8 @@ def run_dataset(dataset_path,dataset="small"):
 
     
 
-
-
-
-
-
-
 if __name__=='__main__':
-    run_dataset(dataset_path='../data/ml-latest-small/ratings.csv')
+    run_dataset(dataset_path='data/ratings.csv')
 
     
 
