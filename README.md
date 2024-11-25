@@ -4,7 +4,7 @@ This project demonstrates collaborative filtering for recommendation systems usi
 
 ---
 
-## Features
+## Methods
 
 - **SVD Decomposition**: Computes singular values and explores the loss of data with varying latent factors.
 - **CUR Decomposition**: Approximates the original matrix using selected columns and rows, with tunable latent dimensions.
