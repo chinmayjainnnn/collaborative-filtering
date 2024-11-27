@@ -77,6 +77,14 @@ The project uses the [MovieLens dataset](https://grouplens.org/datasets/movielen
 
 ---
 
+## Results
+
+**Top 20 singular values are**
+[9032.38102201 4265.13020478 2962.83432586 2856.37494764 2441.34461236
+ 2269.55931732 2169.8992637  1848.47223494 1701.69413469 1528.15832014
+ 1476.74413397 1449.77168211 1432.00119537 1413.20720491 1319.28764566
+ 1281.82058619 1213.72797731 1203.99401803 1198.55552737 1135.24246017]
+
 <!-- ## Code Highlights
 
 - **SVD Decomposition**: Uses `numpy.linalg.svd` for efficient singular value computation.
